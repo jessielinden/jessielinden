@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hiya!
 
-<!--
-**jessielinden/jessielinden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jessie (she/her) 👋🏻
 
-Here are some ideas to get you started:
+I'm a New York-based musician who found herself out of work in 2020 and fell in love with SwiftUI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thankfully live music is back and SwiftUI is getting better and better by the year! I'm happy to be building for Apple platforms in this great community.
+
+Please reach out if you have any questions about me or the work you see here. Or, just say hi, tell me about your greatest coding success this year or send me a pet photo!  
+
+I can be found on [Instagram](https://www.instagram.com/jessie.linden/), [Mastodon](https://mastodon.online/@jessielinden), and most actively re: Apple on [Twitter](https://twitter.com/jessielinden). 😀
+
+Up next: speaking about 😍 enums 😍 at [SwiftLeeds](https://swiftleeds.co.uk/)
