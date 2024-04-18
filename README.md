@@ -10,4 +10,4 @@ Please reach out if you have any questions about me or the work you see here. Or
 
 I can be found on [Instagram](https://www.instagram.com/jessie.linden/), [Mastodon](https://mastodon.online/@jessielinden), and most actively re: Apple on [Twitter](https://twitter.com/jessielinden). 😀
 
-Up next: speaking about 😍 enums 😍 at [SwiftLeeds](https://swiftleeds.co.uk/)
+Up next: speaking about 😍 gestures 😍 at [Deep Dish Swift](deepdishswift.com)
